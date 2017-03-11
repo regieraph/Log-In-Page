@@ -10,8 +10,10 @@ var loginInfo = [
     username: "greg",
     password: "piano"
   },
+  {
     username: "rico",
     password: "dance"
+  },
   {
     username: "kai",
     password: "beque"
