@@ -17,7 +17,10 @@ var loginInfo = [
   {
     username: "kai",
     password: "beque"
-   }
+   },
+  {
+    username: "Robert",
+    password: "Leon"
 ]
 
 //Function to check to see if username and password is correct
@@ -36,5 +39,6 @@ for(i = 0; i < loginInfo.length; i++){
     }
   } 
   document.write("INCORRECT USERNAME OR PASSWORD")
+  return
 }
     
