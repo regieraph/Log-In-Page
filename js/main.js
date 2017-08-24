@@ -4,7 +4,8 @@
 var loginInfo = [
   {
     username: "regie",
-    password: "anime"
+    password: "anime",
+    birthday: 4/6/1990
   },
   {
     username: "greg",
@@ -29,6 +30,7 @@ function getInfo(){
 //make variables to store username and value to compare to using .value
   var username = document.getElementById("username").value
   var password = document.getElementById("password").value
+  var birthDate = document.getElementById("birthDate).value
   
 //Create for loop to check to see if values match
 for(i = 0; i < loginInfo.length; i++){
