@@ -15,7 +15,7 @@ var loginInfo = [
   {
     username: "rico",
     password: "dance",
-    birthday: "9/6/1990
+    birthday: "9/6/1990"
   },
   {
     username: "kai",
