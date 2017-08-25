@@ -10,12 +10,12 @@ var loginInfo = [
   {
     username: "greg",
     password: "piano",
-    birthday: "6/2/1990
+    birthday: 6/2/1990
   },
   {
     username: "rico",
     password: "dance",
-    birthday: "9/6/1990"
+    birthday: 9/6/1990
   },
   {
     username: "kai",
