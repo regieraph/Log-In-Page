@@ -27,6 +27,7 @@ padding-left: 20px;
 padding-right: 20px;
 }
 .title {
+  position: fixed;
   color: red;
   font-size: 30px;
   text-align: center;
