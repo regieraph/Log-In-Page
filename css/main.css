@@ -7,6 +7,7 @@ color: light blue;
 font-size: 20px;
 }
 #password { 
+position: relative;  
 color: light blue;
 font-size: 20px;
 position: relative;
