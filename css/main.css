@@ -2,7 +2,8 @@ button {
   border-radius: 5px;
 }
 .username {
-  width: 90%
+  width: 90%;
+  margin: 0 auto;
 }
 #username {
 position: relative;  
