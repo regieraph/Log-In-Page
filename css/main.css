@@ -1,6 +1,9 @@
 button {
   border-radius: 5px;
 }
+.username {
+  width: 90%
+}
 #username {
 position: relative;  
 display: inline-block;  
