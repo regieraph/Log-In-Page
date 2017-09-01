@@ -3,6 +3,7 @@ button {
 }
 #username {
 position: relative;  
+display: inline-block;  
 text-align: center;
 color: light blue;
 font-size: 20px;
