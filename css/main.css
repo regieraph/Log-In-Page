@@ -9,6 +9,9 @@ button {
   width: 90%;
   margin: 0 auto;
 }
+.birthDate {
+  width: 90%;
+}
 #username {
 position: relative;  
 display: inline-block;  
