@@ -22,6 +22,7 @@ padding-right: 20px;
 }
 #birthDate {  
 position: relative;  
+display: inline-block;  
 color: light blue;
 font-size: 20px;
 position: relative;
