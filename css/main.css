@@ -52,6 +52,7 @@ padding-right: 20px;
 .title {
   position: fixed;
   color: red;
+  border-style: groove;
   font-size: 30px;
   text-align: center;
   font-style: italic;
