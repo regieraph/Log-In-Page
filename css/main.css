@@ -1,6 +1,18 @@
 button {
   border-radius: 5px;
 }
+.title {
+  position: fixed;
+  width: 100%;
+  margin: 7px auto;
+  color: red;
+  border-style: groove;
+  font-size: 30px;
+  text-align: center;
+  font-style: italic;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
 .username {
   width: 90%;
   margin: 0 auto;
@@ -49,13 +61,4 @@ margin-top: 30px;
 padding-left: 20px;
 padding-right: 20px;
 }
-.title {
-  position: fixed;
-  color: red;
-  border-style: groove;
-  font-size: 30px;
-  text-align: center;
-  font-style: italic;
-  padding-top: 2px;
-  padding-bottom: 2px;
-}
+
