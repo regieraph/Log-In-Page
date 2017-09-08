@@ -24,6 +24,7 @@ button {
 .title3{
   color: gray;
   border-style: none;
+  background-color: none;
 }
 .username {
   width: 90%;
