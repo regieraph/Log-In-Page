@@ -21,6 +21,10 @@ button {
 .title2{
   margin-top: 20px;
 } 
+.title3{
+  color: gray;
+  border-style: none;
+}
 .username {
   width: 90%;
   margin: 0 auto;
