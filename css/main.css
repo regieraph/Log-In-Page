@@ -27,6 +27,7 @@ button {
   background-color: none;
 }
 .h2Div{
+  position: relative;
 }
 .username {
   width: 90%;
