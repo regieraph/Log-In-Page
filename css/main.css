@@ -27,6 +27,7 @@ button {
 } 
 .title3{
   color: gray;
+  font-weight: bold;
   border-style: none;
   background-color: none;
 }
