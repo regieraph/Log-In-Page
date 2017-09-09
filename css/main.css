@@ -28,6 +28,7 @@ button {
 }
 .h2Div{
   position: relative;
+  text-align: center;
 }
 .username {
   width: 90%;
