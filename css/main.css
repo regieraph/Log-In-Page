@@ -39,6 +39,9 @@ button {
   background-color: white;
   border-style: groove;
 }
+.h3Div{
+  position: relative;
+}
 .username {
   width: 90%;
   margin: 0 auto;
