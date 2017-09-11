@@ -42,6 +42,7 @@ button {
 .h3Div{
   position: relative;
   text-align: center;
+  font-weight: bold;
 }
 .username {
   width: 90%;
