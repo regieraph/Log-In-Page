@@ -24,6 +24,7 @@ var loginInfo = [
   {
     username: "Robert",
     password: "Leon"
+  }  
 ]
 
 //Function to check to see if username and password is correct
