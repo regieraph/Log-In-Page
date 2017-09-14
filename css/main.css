@@ -27,9 +27,11 @@ button {
 } 
 .title3{
   color: black;
+  font-style: serif;
   font-weight: bold;
   border-style: none;
   text-align: center;
+  
 }
 .h2Div{
   position: relative;
