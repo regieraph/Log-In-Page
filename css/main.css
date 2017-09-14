@@ -1,6 +1,7 @@
 form{
   background-color: gray;
   text-align: center;
+  font-weight: bold;
   margin-top: -3px;
   opacity: 0.5;
 }
