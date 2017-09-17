@@ -39,7 +39,7 @@ function getInfo(){
 for(i = 0; i < loginInfo.length; i++){
   //if username is equals to loginInfo.username AND password is equals to loginInfo.password, write to console
     if(username == loginInfo[i].username && password == loginInfo[i].password && birthDate == loginInfo[i].birthday){
-    console.log("Welcome, " + username + " your password is " + password + "your birthday is " + birthDate)
+    document.write("Welcome, " + username + " your password is " + password + "your birthday is " + birthDate)
     return
     }
   } 
