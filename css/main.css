@@ -17,6 +17,7 @@ button {
   margin: 7px auto;
   color: rgba(15, 50, 90, .8);
   border-style: groove;
+  border-color: gray;
   font-size: 30px;
   font-weight: bold;
   text-align: center;
