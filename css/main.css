@@ -31,6 +31,7 @@ button {
   margin-top: 20px;
   font-weight: bold;
   font-style: serif;
+  opacity: 0.75;
 } 
 .title3{
   color: black;
