@@ -8,6 +8,7 @@ form{
 button {
   border-radius: 5px;
   border-style: groove;
+  border-color: rgb(0, 0, 255);
   font-weight: bold;
   
 }
