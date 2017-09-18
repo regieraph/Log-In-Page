@@ -28,6 +28,7 @@ button {
 }
 .title2{
   margin-top: 20px;
+  text-align: center;
   font-weight: bold;
   font-style: serif;
   opacity: 0.75;
