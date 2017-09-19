@@ -5,6 +5,7 @@ form{
   margin-top: -3px;
 }
 button {
+  color: rgba(0, 0 , 255, 0.8);
   border-radius: 5px;
   border-style: groove;
   border-color: rgba(0, 0, 255, 0.75);
