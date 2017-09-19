@@ -50,6 +50,7 @@ button {
   position: relative;
   text-align: center;
   font-weight: bold;
+  font-style: serif;
   margin-top: 35px;
   opacity: .75;
 }
