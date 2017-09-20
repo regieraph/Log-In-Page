@@ -11,6 +11,7 @@ button {
   border-color: rgba(0, 0, 255, 0.75);
   font-weight: bold;
   font-style: serif;
+  z-index: 1;
   
 }
 .title {
