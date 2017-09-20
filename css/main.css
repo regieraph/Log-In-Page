@@ -39,6 +39,7 @@ button {
   font-style: serif;
   border-style: groove;
   opacity: 0.75;
+  z-index: -1;
 } 
 .title3{
   color: black;
