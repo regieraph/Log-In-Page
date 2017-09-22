@@ -64,6 +64,7 @@ button {
   text-align: center;
   font-weight: bold;
   border-style: groove;
+  border-radius: 2px;
 }
 .username {
   width: 90%;
