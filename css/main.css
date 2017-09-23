@@ -71,6 +71,7 @@ button {
 #funButton {
   border-color: blue;
   border-style: groove;
+  border-radius: 2px;
   
 }
 .username {
