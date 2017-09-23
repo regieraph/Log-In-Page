@@ -69,7 +69,9 @@ button {
   border-color: white;
 }
 #funButton {
+  border-color: blue;
   border-style: groove;
+  
 }
 .username {
   width: 90%;
