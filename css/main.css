@@ -72,6 +72,7 @@ button {
   border-color: blue;
   border-style: groove;
   border-radius: 2px;
+  text-align: center;
   
 }
 .username {
