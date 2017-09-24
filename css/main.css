@@ -68,6 +68,7 @@ button {
   border-style: groove;
   border-radius: 2px;
   border-color: white;
+  z-index: 1;
 }
 #funButton {
   border-color: blue;
