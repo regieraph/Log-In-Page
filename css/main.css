@@ -58,6 +58,7 @@ button {
   font-style: serif;
   margin-top: 35px;
   opacity: .75;
+  z-index: 1;
 }
 .h3Div{
   position: relative;
