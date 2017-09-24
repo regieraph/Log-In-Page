@@ -101,6 +101,7 @@ background-color: light blue;
 color: light blue;
 font-size: 20px;
 font-style: sans-serif;
+z-index: 1;
 }
 #password { 
 position: relative;  
