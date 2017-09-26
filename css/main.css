@@ -141,6 +141,7 @@ z-index: 1;
 .funButton {
   width: 90%;
   margin: 0 auto;
+  border-style: groove;
     
 }
 
