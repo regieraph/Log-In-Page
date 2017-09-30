@@ -132,6 +132,7 @@ padding-right: 20px;
 .funButton {
   width: 90%;
   margin: 0 auto;
+  font-style: serif;
   border-style: groove;
   border-color: gray;
 }
