@@ -50,6 +50,7 @@ button {
   text-align: center;
   font-weight: bold;
   margin-top: 35px;
+  z-index: 1;
 }
 .h3Div{
   position: relative;
