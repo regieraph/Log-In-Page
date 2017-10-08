@@ -37,6 +37,7 @@ button {
   text-align: center;
   font-weight: bold;
   border-style: groove;
+  z-index: 1;
 } 
 .title3{
   color: black;
