@@ -44,6 +44,7 @@ button {
   font-weight: bold;
   border-style: none;
   text-align: center;
+  z-index: 1;
 }
 .h2Div{
   position: relative;
