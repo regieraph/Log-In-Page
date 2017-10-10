@@ -22,7 +22,7 @@ button {
   width: 100%;
   margin: 7px auto;
   color: rgba(15, 50, 90, .8);
-  border-color: rgb( 0, 0, 255);
+  border-color: rgb( 0, 0, 255, 0.7);
   font-size: 30px;
   font-weight: bold;
   text-align: center;
