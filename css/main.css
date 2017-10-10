@@ -57,7 +57,6 @@ button {
   position: relative;
   text-align: center;
   font-weight: bold;
-  border-style: groove;
   border-radius: 2px;
   border-color: white;
   z-index: 1;
