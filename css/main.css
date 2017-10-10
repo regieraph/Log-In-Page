@@ -112,7 +112,7 @@ z-index: 1;
 text-align: center;  
 position: relative;  
 display: inline-block;  
-border-radius: 2px;
+border-radius: 10px;
 border-style: groove;
 border-color: gray;
 background-color: light blue;
