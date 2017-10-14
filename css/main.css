@@ -2,9 +2,7 @@ form{
   text-align: center;
   font-weight: bold;
   margin-top: -3px;
-  
-
-
+  z-index:1;
 }
 button {
   color: rgba(0, 0 , 255, 0.8);
