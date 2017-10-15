@@ -5,6 +5,7 @@ form{
   z-index:1;
 }
 button {
+  position: fixed;
   color: rgba(0, 0 , 255, 0.8);
   border-radius: 5px;
   border-style: groove;
