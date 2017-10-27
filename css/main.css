@@ -91,7 +91,7 @@ border-color: gray;
 background-color: light blue;
 color: light blue;
 font-size: 20px;
-
+z-index: 1;
 
 }
 #password { 
