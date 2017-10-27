@@ -69,6 +69,7 @@ button {
 .username {
   width: 90%;
   margin: 0 auto;
+  z-index: 1;
 }
 .password {
   width: 90%;
